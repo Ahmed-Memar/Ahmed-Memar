@@ -29,7 +29,7 @@ Mon objectif : contribuer à la sécurisation et à l'optimisation des systèmes
 - **Virtualisation** : Hyper-V, Proxmox, VMware.
 - **Cloud & DevOps** : AWS, Docker, CI/CD  
 - **Bases de Données** : SQL, MongoDB  
-- **Outils de Sécurité** : OpenVAS, Metasploit, Wireshark, Grafana  
+- **Outils de Sécurité** : OpenVAS, Wireshark, Grafana  
 
 ---
 
