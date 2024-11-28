@@ -21,12 +21,12 @@ Mon objectif : contribuer à la sécurisation et à l'optimisation des systèmes
 ---
 
 ## 🛠️ **Compétences Techniques**
-
-- **Réseaux & Sécurité** : TCP/IP, VPN, pare-feux, DNS, DHCP, IDS/IPS, SIEM  
-- **Administration Systèmes** : Windows, Linux (Kali, Ubuntu, Debian), Active Directory, GPO  
-- **Cybersécurité** : Analyse des vulnérabilités, pentesting, gestion des incidents  
-- **Virtualisation** : Hyper-V, Proxmox, VMware  
-- **Développement** : Bash, Python, JavaScript, PHP, C, PowerShell  
+- **Programmation** : Python, Java, PHP, C#, C.
+- **Développement** : HTML, CSS, JavaScript, React.js, WordPress, Tailwind.
+- **Réseaux & Sécurité** : TCP/IP, VPN, pare-feux, DNS, DHCP, IDS/IPS, SIEM.
+- **Administration Systèmes** : Windows, Linux (Kali, Ubuntu, Debian), Active Directory.  
+- **Cybersécurité** : Analyse des vulnérabilités, pentesting, gestion des incidents.
+- **Virtualisation** : Hyper-V, Proxmox, VMware.
 - **Cloud & DevOps** : AWS, Docker, CI/CD  
 - **Bases de Données** : SQL, MongoDB  
 - **Outils de Sécurité** : OpenVAS, Metasploit, Wireshark, Grafana  
